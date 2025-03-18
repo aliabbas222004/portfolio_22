@@ -20,7 +20,7 @@ multer
 nodemon
 
 (4)Set Up Environment Variables:
-The project runs on port 10000 by default.
+The project runs on port 8000 by default.
 To change it, modify the .env file.
 Note: The MONGO_URL is not included for security reasons. You need to provide your own MongoDB connection string in the .env file.
 
